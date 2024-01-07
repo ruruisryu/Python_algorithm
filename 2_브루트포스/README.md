@@ -10,11 +10,11 @@
 
 ## 🙏 필수
 
-|  문제 번호  |  문제 이름  |                                        난이도                                         |  풀이 링크  | 
-| :--------: | :--------: |:----------------------------------------------------------------------------------:| :-------: | 
-| <a href="https://www.acmicpc.net/problem/10825" target="_blank">10825</a> | <a href="https://www.acmicpc.net/problem/10825" target="_blank">꽃길</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |  -  |  
-|  <a href="https://www.acmicpc.net/problem/18310" target="_blank">18310</a>  |   <a href="https://www.acmicpc.net/problem/18310" target="_blank">사탕게임</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |  - | 
-| <a href="https://www.acmicpc.net/problem/1715" target="_blank">1715</a> |   <a href="https://www.acmicpc.net/problem/1715" target="_blank">오목</a>   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  -  | 
+|                                   문제 번호                                   |                                  문제 이름                                  |                                        난이도                                         |  풀이 링크  | 
+|:-------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:----------------------------------------------------------------------------------:| :-------: | 
+| <a href="https://www.acmicpc.net/problem/14620" target="_blank">14620</a> | <a href="https://www.acmicpc.net/problem/14620" target="_blank">꽃길</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |  -  |  
+|  <a href="https://www.acmicpc.net/problem/3085" target="_blank">3085</a>  | <a href="https://www.acmicpc.net/problem/3085" target="_blank">사탕게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |  - | 
+|  <a href="https://www.acmicpc.net/problem/2615" target="_blank">2615</a>  |  <a href="https://www.acmicpc.net/problem/2615" target="_blank">오목</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  -  | 
 
 
 
