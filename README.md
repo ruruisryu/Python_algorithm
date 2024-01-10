@@ -1,4 +1,11 @@
 # 👩‍💻 잡튜비튜 👩‍💻
+서혀언이들의 파이썬 코테 대비 스터디 👊
+(2024.01 ~)
+## 🙋 스터디원
+|    유서현    |      김서현     |       이서연           | 
+| :--------: | :-----------: | :-------------------: | :------------: | 
+| ![enter image description here](https://avatars.githubusercontent.com/u/79790536?s=400&u=7c2349c5abcbf78280980f42215b0c26cb714d63&v=4)[ruruisryu](https://github.com/ruruisryu) |   ![enter image description here](https://avatars.githubusercontent.com/u/100199530?v=4)[sforseohn](https://github.com/sforseohn)  |  ![enter image description here](https://avatars.githubusercontent.com/u/124582545?v=4)[SeoYeomm](https://github.com/SeoYeomm) |  
+
 
 
 ## 💻 노션 링크
