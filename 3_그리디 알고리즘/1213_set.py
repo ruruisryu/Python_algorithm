@@ -4,8 +4,7 @@ name = list(input())
 keys = set(name)
 
 count = 0
-even = ""
-result =""
+even = result = ""
 
 for key in keys:
     if name.count(key) % 2 == 1:
