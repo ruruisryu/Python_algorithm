@@ -19,9 +19,7 @@ def backtrack(cnt, before):
         return
 
     for i in range(0, n):
-        if is_visited[i] is True or w[before][i] == 0:
-            continue
-        else:
+        if is_visited[i] is False and w[before][i] != 0:
             total_weight += w[before][i]
             is_visited[i] = True
             backtrack(cnt+1, i)
